@@ -6,7 +6,7 @@ This repository features a collection of **paginated reports** built using **SQL
 
 ## 🏥 1. Hospital Claims Summary Report
 
-![Hospital Report with Parameters](https://raw.githubusercontent.com/YashaswiniReddy/ssrs-report-portfolio/main/Hospital%20report%20with%20parameters.png)
+![Hospital Report with Parameters](https://raw.githubusercontent.com/YashaswiniReddy/paginated-reports-SSRS/main/Hospital%20report%20with%20parameters.png)
 
 - **Purpose:** Analyze yearly claim costs and patient admissions for healthcare organizations.
 - **Features:**
