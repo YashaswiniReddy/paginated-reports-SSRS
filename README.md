@@ -30,7 +30,8 @@ This repository features a collection of **paginated reports** built using **SQL
 
 ## 🛍️ 3. Product List with Subreport (Design Layout)
 
-![Subreport Layout](https://raw.githubusercontent.com/YashaswiniReddy/ssrs-report-portfolio/main/Paginated%20Report%20with%20subreport.png)
+![Subreport Layout](![Subreport Layout](https://raw.githubusercontent.com/YashaswiniReddy/paginated-reports-SSRS/main/Paginated%20Report%20with%20subreport.png)
+)
 
 - **Purpose:** Displays a master-detail layout using subreports
 - **Use Case:** Product listings where each product links to a related sales detail
