@@ -18,7 +18,7 @@ This repository features a collection of **paginated reports** built using **SQL
 
 ## 🧠 2. Report Design – Using Expressions
 
-![SSRS Expressions](https://raw.githubusercontent.com/YashaswiniReddy/ssrs-report-portfolio/main/image%20(2).png)
+![SSRS Expressions](https://raw.githubusercontent.com/YashaswiniReddy/paginated-reports-SSRS/main/Paginated%20Report%20with%20subreport.png)
 
 - **Purpose:** Demonstrates use of expressions and dynamic summaries
 - **Features:**
@@ -41,7 +41,7 @@ This repository features a collection of **paginated reports** built using **SQL
 
 ## ✅ 4. Final Rendered Output of Subreport
 
-![Subreport Output](https://raw.githubusercontent.com/YashaswiniReddy/ssrs-report-portfolio/main/Result%20of%20paginated%20subreport.png)
+![Subreport Output](https://raw.githubusercontent.com/YashaswiniReddy/paginated-reports-SSRS/main/Result%20of%20paginated%20subreport.png)
 
 - **Purpose:** View the final output of a product-sales relationship report
 - **Features:**
