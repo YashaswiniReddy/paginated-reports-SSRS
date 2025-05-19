@@ -13,6 +13,7 @@ This repository features a collection of **paginated reports** built using **SQL
   - Conditional formatting (red for low cost, green for high)
   - Filters by category and organization (using parameters)
   - Displays real-time timestamp with execution context
+  - Here the red color indicates claimcost beow 500 and green indicates above 500
 
 ---
 
